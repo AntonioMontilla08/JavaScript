@@ -5,8 +5,8 @@ switch (metodoPago){
         console.log('Pagaste con tarjeta');
         break;
     case 'cheque':
-            console.log('El usuario pagará con cheque, revisaremos los fondos primero');
-            break;
+        console.log('El usuario pagará con cheque, revisaremos los fondos primero');
+        break;
     case 'efectivo':
         console.log('Pagaste con efectivo');
         break;

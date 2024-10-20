@@ -1,7 +1,7 @@
 //Sintaxis
 //Se declara el indice o iniciador del loop
 //Se usa la palabra reservada while y entre parentesis la condicion a evaluar
-//entre los corchetes va lo que se quiere evaluar
+//entre los corchetes va lo que se quiere ejecutar
 //Al final, antes del corchete de cirre, se pone el incremento
 
 
